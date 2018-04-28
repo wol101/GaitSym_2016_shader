@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+    <key>NSPrincipalClass</key>
+    <string>NSApplication</string>
+    <key>CFBundleIconFile</key>
+    <string>GaitSymQt.icns</string>
+    <key>CFBundlePackageType</key>
+    <string>APPL</string>
+    <key>CFBundleGetInfoString</key>
+    <string>Copyright © Bill Sellers 2016</string>
+    <key>CFBundleShortVersionString</key>
+    <string>2016</string>
+    <key>CFBundleSignature</key>
+    <string>aSl+</string>
+    <key>CFBundleExecutable</key>
+    <string>GaitSymQt</string>
+    <key>CFBundleIdentifier</key>
+    <string>org.AnimalSimulationLaboratory.GaitSym2016</string>
+    <key>NOTE</key>
+    <string>This file was customised from the standard Qt supplied version.</string>
+</dict>
+</plist>
